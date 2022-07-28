@@ -1,0 +1,2 @@
+$ java -jar kawa-1.9.1.jar --xquery -f q2.xquery
+<salary>48000</salary><salary>53000</salary><salary>58000</salary><salary>54320</salary><salary>68000</salary><salary>44000</salary>%

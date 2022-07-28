@@ -1,0 +1,14 @@
+$ java -jar kawa-1.9.1.jar --xquery -f q1.xquery
+<name>
+      <firstname>Brady</firstname>
+      <lastname>Dan</lastname>
+      <middleinit>L</middleinit>
+    </name><name>
+      <firstname>Clemson</firstname>
+      <lastname>Ann</lastname>
+      <middleinit>M</middleinit>
+    </name><name>
+      <firstname>Gill</firstname>
+      <lastname>Mary</lastname>
+      <middleinit>L</middleinit>
+    </name>%
